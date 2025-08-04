@@ -23,9 +23,9 @@ These videos correspond to the **three-part testing structure** from the paper (
 
 | Test Phase                | Description                                       | Video |
 |--------------------------|---------------------------------------------------|-------|
-| **Terrain Traversal**     | MADRA crossing gravel, ramps, and concrete | [Watch](https://drive.google.com/file/d/1YuEDupqHcTejxY4UnGiHg9LeYNgSlZg7/view?usp=drive_link) |
-| **Stair Climbing**        | Inclined stair ascent using standard gait         | [Watch](https://drive.google.com/file/d/1uDg50wn8Ia0FKkLn-5p9iieBwtFtvfr9/view?usp=drive_link) |
-| **Crosswalk Detection**   | Object classification using YOLOv8n + audio cue   | [Watch](https://drive.google.com/file/d/13FYVZR2MGwEMnntFbif5GTtFpPSyTAgs/view?usp=drive_link) |
+| **Terrain Traversal**     | MADRA crossing concrete, gravel, and tiled platforms | [Watch](https://drive.google.com/file/d/1YuEDupqHcTejxY4UnGiHg9LeYNgSlZg7/view?usp=drive_link) |
+| **Stair Climbing**        | Stair ascent using climbing gait         | [Watch](https://drive.google.com/file/d/1uDg50wn8Ia0FKkLn-5p9iieBwtFtvfr9/view?usp=drive_link) |
+| **Crosswalk Detection**   | Object classification using YOLOv8n + audio feedback   | [Watch](https://drive.google.com/file/d/13FYVZR2MGwEMnntFbif5GTtFpPSyTAgs/view?usp=drive_link) |
 
 Each clip reflects qualitative test outcomes and system behavior during real deployment.
 
@@ -68,7 +68,6 @@ The following videos are **not part of formal evaluation**, but offer relevant f
 
 | Clip                             | Description                              | Video |
 |----------------------------------|------------------------------------------|-------|
-| **Testing Centre Walkthrough**    | Ambient footage from the urban simulation site | [Watch](https://drive.google.com/file/d/1tV6kSjt_ZUKyNaLByC-fAnyKb2fdjH28/view?usp=drive_link) |
 | **Walking Inside Aircraft Cabin** | MADRA walking through a plane aisle (no test) | [Watch](https://drive.google.com/file/d/1yEEPkz0OswvMyNVGzLPwK2F4cQUAiOCF/view?usp=drive_link) |
 
 ---
