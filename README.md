@@ -2,14 +2,11 @@
 
 Welcome to the official companion site for **MADRA (Medical Autonomous Droid Remote Assistant)** — a quadruped robotic guide dog designed to assist individuals with blindness and vision impairment (BVI) through fully onboard object detection and voice interaction.
 
-This site offers supporting media and materials referenced in our paper:
-
-**“MADRA: Quadruped Robotic Guide Dog”**  
-_University of Galway, HIVE Lab, 2025_
+This site offers supporting media and materials referenced in the paper.
 
 ---
 
-## 🎯 Project Summary
+## Project Summary
 
 MADRA runs entirely on a Unitree Go1 Edu platform, using only its native onboard hardware. It supports:
 
@@ -20,7 +17,7 @@ MADRA runs entirely on a Unitree Go1 Edu platform, using only its native onboard
 
 ---
 
-## 🎥 Demo Videos
+## Demo Videos
 
 These videos correspond to the **three-part testing structure** from the paper (Section II.E and Table III):
 
@@ -34,7 +31,7 @@ Each clip reflects qualitative test outcomes and system behavior during real dep
 
 ---
 
-## 🧠 System Highlights
+## System Highlights
 
 - **Wakeword-activated voice interface** using “Guide Dog”
 - **Command parsing** via predefined YAML/JSON vocabulary
@@ -43,7 +40,7 @@ Each clip reflects qualitative test outcomes and system behavior during real dep
 
 ---
 
-## 🖼️ Image Samples
+## Image Samples
 
 | Image Title           | Link |
 |-----------------------|------|
@@ -54,7 +51,7 @@ Each clip reflects qualitative test outcomes and system behavior during real dep
 
 ---
 
-## 📍 Testing Environment
+## Testing Environment
 
 Testing was conducted at the **Wayfinding Centre** (Dublin), which offers high-fidelity urban simulation.  
 Tests included:
@@ -65,7 +62,7 @@ Tests included:
 
 ---
 
-## 📹 Additional Footage (Non-Testing)
+## Additional Footage (Non-Testing)
 
 The following videos are **not part of formal evaluation**, but offer relevant footage of MADRA operating in diverse environments:
 
@@ -76,15 +73,5 @@ The following videos are **not part of formal evaluation**, but offer relevant f
 
 ---
 
----
-
-## 🤝 Acknowledgements
-
-MADRA is developed at the [HIVE Lab, University of Galway](https://www.universityofgalway.ie/), with support from CÚRAM, SFI, and CISCO.
-
-📧 For correspondence:  
-`maximiliano.delgado@universityofgalway.ie` (author format)
-
----
 
 _© 2025. Site maintained as supporting material for peer review and future development._
